@@ -1,6 +1,6 @@
 ## Hello I am SHRADDHA MEHTA
 ---------------------
--------------------
+
 
 
 Expertise Area/Area(s) of Interest : Machine Learning, Data Structures and Algorithms
@@ -16,7 +16,7 @@ Tools and Technologies Android Studio, Tensor Flow , Flutter
 
 
 -------------------------------------
--------------------------------------------
+
 Email: mshraddha185@gmail.com 
 
 
