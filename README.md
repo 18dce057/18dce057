@@ -1,18 +1,18 @@
-## SHRADDHA MEHTA
-
-Expertise Area/Area(s) of Interest Machine Learning, Data Structures and Algorithms
-
+## Hello I am SHRADDHA MEHTA
+---------------------
+Expertise Area/Area(s) of Interest : Machine Learning, Data Structures and Algorithms
+------------------------
 
 Programming Language(s Java , C++ , Python
-
+--------------------
 
 Other HTML, CSS, SQL
-
+-------------------------
 
 Tools and Technologies Android Studio, Tensor Flow , Flutter
+-------------------------------------
 
-
-
+-----------------------------------
 Email: mshraddha185@gmail.com 
 
 
