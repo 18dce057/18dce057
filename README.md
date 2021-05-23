@@ -1,4 +1,4 @@
-### Hi there �
+## SHRADDHA MEHTA
 
 Expertise Area/Area(s) of Interest Machine Learning, Data Structures and Algorithms
 
