@@ -6,7 +6,7 @@
 Expertise Area/Area(s) of Interest : Machine Learning, Data Structures and Algorithms
 
 
-Programming Language(s Java , C++ , Java
+Programming Language(s) : C , C++ , Java
 
 
 Other HTML, CSS, SQL, Firebase
