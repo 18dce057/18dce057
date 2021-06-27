@@ -6,13 +6,13 @@
 Expertise Area/Area(s) of Interest : Machine Learning, Data Structures and Algorithms
 
 
-Programming Language(s Java , C++ , Python
+Programming Language(s Java , C++ , Java
 
 
-Other HTML, CSS, SQL
+Other HTML, CSS, SQL, Firebase
 
 
-Tools and Technologies Android Studio, Tensor Flow , Flutter
+Tools and Technologies Android Studio, Tensor Flow 
 
 <img src="https://github-readme-stats.vercel.app/api?username=18dce057&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
