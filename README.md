@@ -3,13 +3,13 @@
 
 
 
-Expertise Area/Area(s) of Interest : Machine Learning, Data Structures and Algorithms
+Expertise Area/Area(s) of Interest : Data Structures and Algorithms
 
 
 Programming Language(s) : C , C++ , Java
 
 
-Other HTML, CSS, SQL, Firebase
+Other HTML, CSS, Bootstrap, Javascript, SQL, Firebase 
 
 
 Tools and Technologies Android Studio, Tensor Flow 
